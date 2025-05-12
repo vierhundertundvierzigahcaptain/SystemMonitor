@@ -1,0 +1,1 @@
+I wrote this application, so to speak, by accident and forgot about it, but it has already saved my computer twice. With its help, you can determine whether your PC is infected with a virus (miner), which hides from all other system monitors, but does not know about this application and gives itself away
